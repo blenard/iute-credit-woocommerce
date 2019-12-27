@@ -1,0 +1,360 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-19 11:32+0200\n"
+"PO-Revision-Date: 2019-12-19 11:33+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: iute-credit.php:98
+msgid "Request a Loan"
+msgstr ""
+
+#: iute-credit.php:99 inc/settings-iute.php:31
+msgid "IuteCredit"
+msgstr ""
+
+#: iute-credit.php:100
+msgid "Iute Credit is the fastest and the most comfortable loan provider"
+msgstr ""
+
+#: iute-credit.php:158
+msgid "Gateway disabled"
+msgstr ""
+
+#: iute-credit.php:158
+msgid "IuteCredit does not support your store location."
+msgstr ""
+
+#: iute-credit.php:228 iute-credit.php:233
+msgid "Please select loan type"
+msgstr ""
+
+#: iute-credit.php:238
+msgid "Application First Name is required"
+msgstr ""
+
+#: iute-credit.php:243
+msgid "Application Last Name is required"
+msgstr ""
+
+#: iute-credit.php:248
+msgid "Application Email is required"
+msgstr ""
+
+#: iute-credit.php:253
+msgid "Application Phone is required"
+msgstr ""
+
+#: iute-credit.php:258
+msgid "Application IDNP is required"
+msgstr ""
+
+#: iute-credit.php:263
+msgid "Application Birth Date is required"
+msgstr ""
+
+#: iute-credit.php:268
+msgid "Please apply user agreement"
+msgstr ""
+
+#: iute-credit.php:334
+msgid "Awaiting approval"
+msgstr ""
+
+#: iute-credit.php:416
+msgid "Settings"
+msgstr ""
+
+#: iute-credit.php:417
+msgid "Clear API Cache"
+msgstr ""
+
+#: inc/admin.php:8
+msgid "IuteCredit loan status"
+msgstr ""
+
+#: inc/admin.php:10
+msgid "Loan status"
+msgstr ""
+
+#: inc/admin.php:11
+msgid "Loan number"
+msgstr ""
+
+#: inc/admin.php:29
+msgid "IuteCredit status"
+msgstr ""
+
+#: inc/class-wc-iute-mail.php:6
+msgid "IuteCredit application status"
+msgstr ""
+
+#: inc/class-wc-iute-template.php:14 templates/template-calc-checkout.php:49
+msgid "Monthly payment"
+msgstr ""
+
+#: inc/cron.php:10
+msgid "Thrice in day"
+msgstr ""
+
+#: inc/cron.php:15
+msgid "Half hour"
+msgstr ""
+
+#: inc/settings-iute.php:15
+msgid "Disable"
+msgstr ""
+
+#: inc/settings-iute.php:17
+msgid "Product category not found"
+msgstr ""
+
+#: inc/settings-iute.php:22
+msgid "Enable IuteCredit"
+msgstr ""
+
+#: inc/settings-iute.php:24 inc/settings-iute.php:51 inc/settings-iute.php:58
+#: inc/settings-iute.php:65 inc/settings-iute.php:72 inc/settings-iute.php:79
+#: inc/settings-iute.php:86 inc/settings-iute.php:93 inc/settings-iute.php:100
+#: inc/settings-iute.php:107 inc/settings-iute.php:114
+#: inc/settings-iute.php:144 inc/settings-iute.php:154
+#: inc/settings-iute.php:159
+msgid "Enable/Disable"
+msgstr ""
+
+#: inc/settings-iute.php:28
+msgid "Title"
+msgstr ""
+
+#: inc/settings-iute.php:30
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: inc/settings-iute.php:35
+msgid "Iute auth: Username"
+msgstr ""
+
+#: inc/settings-iute.php:40
+msgid "Iute auth: Password"
+msgstr ""
+
+#: inc/settings-iute.php:45
+msgid "Iute auth: Agent ID"
+msgstr ""
+
+#: inc/settings-iute.php:50
+msgid "Monthly Payment"
+msgstr ""
+
+#: inc/settings-iute.php:53
+msgid "Display Monthly Payment before Add to cart button"
+msgstr ""
+
+#: inc/settings-iute.php:57
+msgid "Display Total Cost"
+msgstr ""
+
+#: inc/settings-iute.php:60
+msgid "Display Total Cost info on calculator"
+msgstr ""
+
+#: inc/settings-iute.php:64
+msgid "Display Commision"
+msgstr ""
+
+#: inc/settings-iute.php:67
+msgid "Display Commission info on calculator"
+msgstr ""
+
+#: inc/settings-iute.php:71
+msgid "Display Admin fee"
+msgstr ""
+
+#: inc/settings-iute.php:74
+msgid "Display Admin fee info on calculator"
+msgstr ""
+
+#: inc/settings-iute.php:78
+msgid "Display Interest cost"
+msgstr ""
+
+#: inc/settings-iute.php:81
+msgid "Display Interest cost info on calculator"
+msgstr ""
+
+#: inc/settings-iute.php:85
+msgid "Display APR %"
+msgstr ""
+
+#: inc/settings-iute.php:88
+msgid "Display APR % info on calculator"
+msgstr ""
+
+#: inc/settings-iute.php:92
+msgid "Display XIRR %"
+msgstr ""
+
+#: inc/settings-iute.php:95
+#, php-format
+msgid "Display XIRR % on calculator"
+msgstr ""
+
+#: inc/settings-iute.php:99
+msgid "Display Patronymic"
+msgstr ""
+
+#: inc/settings-iute.php:102
+msgid "Display Patronymic field in loan application form"
+msgstr ""
+
+#: inc/settings-iute.php:106
+msgid "Display Bank account number"
+msgstr ""
+
+#: inc/settings-iute.php:109
+msgid "Display Bank account number field in loan application form"
+msgstr ""
+
+#: inc/settings-iute.php:113
+msgid "Use api for calculation"
+msgstr ""
+
+#: inc/settings-iute.php:116
+msgid "Use api for calculation Monthly payment"
+msgstr ""
+
+#: inc/settings-iute.php:120
+msgid "User agreement text"
+msgstr ""
+
+#: inc/settings-iute.php:124
+msgid "Unique Campaign Category"
+msgstr ""
+
+#: inc/settings-iute.php:126 inc/settings-iute.php:133
+#: inc/settings-iute.php:139
+msgid "Unique Campaign"
+msgstr ""
+
+#: inc/settings-iute.php:131
+msgid "Unique Campaign ID"
+msgstr ""
+
+#: inc/settings-iute.php:137
+msgid "Unique Campaign Disclaimer "
+msgstr ""
+
+#: inc/settings-iute.php:143
+msgid "Email notification"
+msgstr ""
+
+#: inc/settings-iute.php:148
+msgid "Email: Admin address"
+msgstr ""
+
+#: inc/settings-iute.php:153
+msgid "Email: notify user"
+msgstr ""
+
+#: inc/settings-iute.php:158
+msgid "Developer mode"
+msgstr ""
+
+#: inc/settings-iute.php:160
+msgid "Use test servers"
+msgstr ""
+
+#: templates/template-calc-checkout.php:27
+#: templates/template-calc-checkout.php:45
+msgid "Period"
+msgstr ""
+
+#: templates/template-calc-checkout.php:41
+msgid "Loan amount"
+msgstr ""
+
+#: templates/template-calc-checkout.php:55
+msgid "Comission"
+msgstr ""
+
+#: templates/template-calc-checkout.php:62
+msgid "Admin fee"
+msgstr ""
+
+#: templates/template-calc-checkout.php:69
+msgid "Interest cost"
+msgstr ""
+
+#: templates/template-calc-checkout.php:76
+msgid "Total cost"
+msgstr ""
+
+#: templates/template-calc-checkout.php:83
+msgid "APR"
+msgstr ""
+
+#: templates/template-calc-checkout.php:90
+msgid "XIRR"
+msgstr ""
+
+#: templates/template-calc-checkout.php:103
+msgid "Loan user application"
+msgstr ""
+
+#: templates/template-calc-checkout.php:105
+msgid "First name"
+msgstr ""
+
+#: templates/template-calc-checkout.php:107
+msgid "Last name"
+msgstr ""
+
+#: templates/template-calc-checkout.php:109
+msgid "IDNP"
+msgstr ""
+
+#: templates/template-calc-checkout.php:111
+msgid "Email"
+msgstr ""
+
+#: templates/template-calc-checkout.php:113
+msgid "Phone"
+msgstr ""
+
+#: templates/template-calc-checkout.php:115
+msgid "Birth date"
+msgstr ""
+
+#: templates/template-calc-checkout.php:115
+msgid "Birth date input format: 01.12.1985"
+msgstr ""
+
+#: templates/template-calc-checkout.php:118
+msgid "Patronymic"
+msgstr ""
+
+#: templates/template-calc-checkout.php:122
+msgid "Bank account number"
+msgstr ""
+
+#: templates/template-calc-single.php:9
+msgid "Starting from monthly"
+msgstr ""
+
+#: templates/template-email-html.php:6
+msgid "You loan request was"
+msgstr ""
