@@ -3,7 +3,7 @@
 /*
 Plugin Name: IuteCredit - WooCommerce Payment Gateway
 Description: IuteCredit WooCommerce Payment Gateway
-Author: Blenard Pazari <blenard@newmedia.al>
+Author: Blenard Pazari <blenardpazari@gmail.com>
 Version: 1.0
 */
 
